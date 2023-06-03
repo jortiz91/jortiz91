@@ -12,7 +12,7 @@ Welcome to my digital realm! I'm a Full-Stack Software Engineer passionate about
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Future Hackathon Events
 
-### Skills
+### Technical Skills
 
 
 <p align="left">
@@ -34,7 +34,7 @@ Welcome to my digital realm! I'm a Full-Stack Software Engineer passionate about
 
 <p align="left"> <a href="https://www.github.com/jortiz91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-ortiz-ryals" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
