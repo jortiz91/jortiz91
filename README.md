@@ -1,5 +1,4 @@
-   Hello! I'm John & my
- GitHub Universe!  
+   Hello! I'm John!
 ================================================================================================================================
 
 Full Stack Developer | U.S Army Veteran
