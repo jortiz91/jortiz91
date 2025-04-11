@@ -8,7 +8,7 @@ Empowering Change through Code | Full-Stack Engineer 💻🌍
 
 Welcome to my digital realm! I'm a Full-Stack Software Engineer passionate about creating web applications that drive positive social change. Let's revolutionize the digital landscape together. Join me in empowering change through code. 
 
-* 🌍  I'm based in Orlando, Florida
+
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Future Hackathon Events
 
